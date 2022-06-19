@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background:linear-gradient(pink,rgb(245, 138, 156),rgb(241, 57, 87));
+    color: white;
+}
+
+img{
+    width:260px;
+    height:280px
+}
